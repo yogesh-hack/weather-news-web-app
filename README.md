@@ -1,6 +1,9 @@
 # Weather News Web App using React JS
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/yogesh-hack/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![GitHub stars](https://img.shields.io/github/stars/yogesh-hack/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)]((https://github.com/yogesh-hack/weather-news-web-app/README.md)]
+[![GitHub stars](https://img.shields.io/github/stars/yogesh-hack/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)]
+[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 
 ## Preview 
 ![screencapture-localhost-3000-2023-02-12-20_02_55](https://user-images.githubusercontent.com/83384315/218318374-43aa4892-433e-4d76-b407-ac6c28c8eeb9.png)
