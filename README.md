@@ -1,6 +1,6 @@
 # Weather News Web App using React JS
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/yogesh-hack/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)]((https://github.com/yogesh-hack/weather-news-web-app)]
 
 ## Preview 
 ![screencapture-localhost-3000-2023-02-12-20_02_55](https://user-images.githubusercontent.com/83384315/218318374-43aa4892-433e-4d76-b407-ac6c28c8eeb9.png)
