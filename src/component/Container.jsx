@@ -76,7 +76,7 @@ const Container = (props) => {
         </div>
         <h2 className='p-2 text-5xl font-bold text-white'>What's the Weather Today ?</h2>
         <div className="w-max grid gap-10 py-10 grid-cols-1mb-6 lg:grid-cols-2">
-           <WeatherCard city={data.name} temp={data.main.temp} desc={"fdhgfgh"} pressure={"235435"} visiblity={"345"} humadity={"345"} />
+           {/*<WeatherCard city={data.name} temp={data.main.temp} desc={"fdhgfgh"} pressure={"235435"} visiblity={"345"} humadity={"345"} />  */}
            {/*<AirQulity gust={data.wind.gust} deg={data.wind.deg} direction={degToCompass(data.wind.deg)} windSpeed={data.wind.speed} /> */}
         </div>
       </div>
