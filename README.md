@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Weather News Web App using React JS
+
+## Preview 
+![screencapture-localhost-3000-2023-02-12-20_02_55](https://user-images.githubusercontent.com/83384315/218318374-43aa4892-433e-4d76-b407-ac6c28c8eeb9.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
