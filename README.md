@@ -1,6 +1,5 @@
 # Weather News Web App using React JS
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/yogesh-hack/)
-[![GitHub stars](https://img.shields.io/github/stars/yogesh-hack/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)]
 [![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
 [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 
