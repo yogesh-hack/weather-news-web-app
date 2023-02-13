@@ -9,6 +9,8 @@ const Container = (props) => {
   // implement weather API from openweather
 
   const APIKey = "bc14daa24ff1034374375f7637f515df"
+  
+  const [isloading,setloading] = useState(true);
   const [data, setdata] = useState({})
   const [city, setCity] = useState("")
 
@@ -18,6 +20,7 @@ const Container = (props) => {
     axios.get(APIurl).then((res) => {
       console.log("responce", res.data)
       setdata(res.data)
+      setloading(false)
     }).catch((err) => {
       console.log(err)
     })
@@ -49,6 +52,15 @@ const Container = (props) => {
     var arr = ["North", "North North East", "North East", "East North East", "East", "East South East", "South East", "South South East", "South", "South South West", "South West", "West South West", "West", "West North West", "North West", "North North West"];
     return arr[(val % 16)];
   }
+  
+  if(isloading){
+    return (
+      <div className='fixed top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2'>
+        Loading...
+      </div>
+    )
+  }
+  
   return (
     <>
       <div className="container px-10 mt-10 w-[50rem]">
