@@ -21,6 +21,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Routes Structure in Repo
+![pathweather](https://user-images.githubusercontent.com/83384315/218481508-ef6e6b3f-074a-4451-983d-167ed36f445c.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
